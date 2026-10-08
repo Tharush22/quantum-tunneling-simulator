@@ -1,6 +1,6 @@
 # Quantum Tunneling Simulator
 
-A Python simulator for 1D quantum tunneling of an electron through arbitrary potential barriers, using the transfer-matrix method. It is validated against the analytic solution for a rectangular barrier and extended to a double-barrier (resonant tunneling) structure.
+A Python simulator for 1D quantum tunneling of an electron through arbitrary potential barriers, using the transfer-matrix method. It is validated against the analytic solution for a rectangular barrier and extended to a double-barrier (resonant tunneling) structure. Built while learning the physics, with AI help for explanations and code structure. I ran and tested everything myself.
 
 ## Why tunneling matters
 Electrons can pass through energy barriers that classical physics says they cannot cross. In chips, this causes leakage current through very thin insulating layers, and it is also the mechanism behind flash memory.
